@@ -1,6 +1,6 @@
 # Hi, I'm Samkol Meng Leang 👋
 
-From Cambodia, Computer Science graduate @ Hanoi University of Science and Technology (HUST), Vietname.
+From Cambodia, a Computer Science graduate @ Hanoi University of Science and Technology (HUST), Vietname.
 I like building websites that are simple and easy to use.
 
 When I'm not coding, I'm probably learning something new.
